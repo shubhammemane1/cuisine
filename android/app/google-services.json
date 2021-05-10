@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "1063741856016",
+    "project_id": "testing-6a320",
+    "storage_bucket": "testing-6a320.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063741856016:android:4aac885cec752fc288ed95",
+        "android_client_info": {
+          "package_name": "com.example.cuisine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063741856016-248hj8o366ngkn94sruccn9e8b26106q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX2ld00iTkReSNYL2PloPLxG36ANMPjSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063741856016-248hj8o366ngkn94sruccn9e8b26106q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063741856016:android:12fa7eb512f8a10a88ed95",
+        "android_client_info": {
+          "package_name": "com.shubhammemane.roomies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063741856016-1frjp38nel5jektoe3ee0okkn5bauf0d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shubhammemane.roomies",
+            "certificate_hash": "dac3aee5ac040b274a360d62ed200700229bb40d"
+          }
+        },
+        {
+          "client_id": "1063741856016-248hj8o366ngkn94sruccn9e8b26106q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX2ld00iTkReSNYL2PloPLxG36ANMPjSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063741856016-248hj8o366ngkn94sruccn9e8b26106q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
